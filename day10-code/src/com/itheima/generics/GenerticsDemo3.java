@@ -1,6 +1,6 @@
 package com.itheima.generics;
 
-public class GenertisDemo3<T>{
+public class GenerticsDemo3<T>{
     /*
         泛型方法
             1.非静态的方法 :内部的泛型，会根据类的泛型去匹配

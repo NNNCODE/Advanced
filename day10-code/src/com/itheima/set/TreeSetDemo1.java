@@ -2,7 +2,7 @@ package com.itheima.set;
 
 import java.util.TreeSet;
 
-public class TreeSetDemo2 {
+public class TreeSetDemo1 {
     /*
     TreeSet集合的特点体验 :排序，去重
      */

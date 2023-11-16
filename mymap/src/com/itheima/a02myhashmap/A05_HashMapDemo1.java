@@ -1,4 +1,6 @@
-package com.itheima.a01mymap;
+package com.itheima.a02myhashmap;
+
+import com.itheima.a01mymap.Student;
 
 import java.util.HashMap;
 import java.util.Map;

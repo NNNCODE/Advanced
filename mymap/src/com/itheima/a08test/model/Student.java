@@ -1,9 +1,7 @@
-package com.itheima.a08test.exercise;
-
-import java.io.Console;
+package com.itheima.a08test.model;
 
 public class Student {
-    private int  id;
+    private int id;
     private String name;
     private String firstname;
     private Program program;
@@ -14,11 +12,6 @@ public class Student {
     }
 
     public Student(int id, String name, String firstname, Program program, Episode episode) {
-        this.id = id;
-        this.name = name;
-        this.firstname = firstname;
-        this.program = program;
-        this.episode = episode;
 
         setId(id);
         setName(name);
@@ -28,9 +21,9 @@ public class Student {
     }
 
 
-
     /**
      * 获取
+     *
      * @return id
      */
     public int getId() {
@@ -39,14 +32,15 @@ public class Student {
 
     /**
      * 设置
+     *
      * @param
      */
 
 
-    public void display()
-    {
-        Console screen = System.console();
-        screen.printf("%d %s %s %s ",id,firstname,program,episode);
+    public void display() {
+//        Console screen = System.console();
+//        screen.printf("%d %s %s %s ",id,firstname,program,episode);
+        System.out.println(id + " " + name);
     }
 
     public void setId(int id) {
@@ -55,6 +49,7 @@ public class Student {
 
     /**
      * 获取
+     *
      * @return name
      */
     public String getName() {
@@ -63,6 +58,7 @@ public class Student {
 
     /**
      * 设置
+     *
      * @param name
      */
     public void setName(String name) {
@@ -71,6 +67,7 @@ public class Student {
 
     /**
      * 获取
+     *
      * @return firstname
      */
     public String getFirstname() {
@@ -79,6 +76,7 @@ public class Student {
 
     /**
      * 设置
+     *
      * @param firstname
      */
     public void setFirstname(String firstname) {
@@ -87,6 +85,7 @@ public class Student {
 
     /**
      * 获取
+     *
      * @return program
      */
     public Program getProgram() {
@@ -95,6 +94,7 @@ public class Student {
 
     /**
      * 设置
+     *
      * @param program
      */
     public void setProgram(Program program) {
@@ -103,6 +103,7 @@ public class Student {
 
     /**
      * 获取
+     *
      * @return episode
      */
     public Episode getEpisode() {
@@ -111,6 +112,7 @@ public class Student {
 
     /**
      * 设置
+     *
      * @param episode
      */
     public void setEpisode(Episode episode) {

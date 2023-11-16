@@ -1,2 +1,4 @@
-package com.itheima.hashset;public class HashSetDemo4 {
+package com.itheima.hashset;
+
+public class HashSetDemo4 {
 }

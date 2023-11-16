@@ -1,6 +1,6 @@
 package com.itheima.recursion;
 
-public class RecusionDemo3 {
+public class RecursionDemo3 {
     public static void main(String[] args) {
 
             int result = get(20);

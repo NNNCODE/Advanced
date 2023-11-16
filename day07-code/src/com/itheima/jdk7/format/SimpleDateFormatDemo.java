@@ -1,4 +1,4 @@
-package com.itheima.format;
+package com.itheima.jdk7.format;
 
 import java.text.ParseException;
 import java.util.Date;

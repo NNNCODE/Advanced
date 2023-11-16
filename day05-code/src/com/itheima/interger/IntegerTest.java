@@ -1,4 +1,4 @@
-package com.itheima.system.interger;
+package com.itheima.interger;
 
 public class IntegerTest {
     /*

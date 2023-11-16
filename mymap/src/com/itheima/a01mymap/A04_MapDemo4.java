@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.BiConsumer;
 
-public class A04MapDemo4 {
+public class A04_MapDemo4 {
     public static void main(String[] args) {
         //Map集合的第二种遍历方式
 

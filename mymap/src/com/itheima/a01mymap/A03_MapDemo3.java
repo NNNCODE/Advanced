@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class A03MapDemo3 {
+public class A03_MapDemo3 {
     public static void main(String[] args) {
         //Map集合的第二种遍历方式
 

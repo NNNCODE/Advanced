@@ -3,7 +3,7 @@ package com.itheima.a01mymap;
 import java.util.HashMap;
 import java.util.Map;
 
-public class A01MapDemo1 {
+public class A01_MapDemo1 {
     /*
         V put(K key,V value)     添加元素
         V remove(Object key)     根据键删除值对应的元素

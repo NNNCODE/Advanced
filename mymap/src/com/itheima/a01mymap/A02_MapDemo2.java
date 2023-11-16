@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class A02MapDemo2 {
+public class A02_MapDemo2 {
     //Map集合的第一种遍历方式
 
     //三个课堂练习

@@ -1,6 +1,6 @@
 package com.itheima.order;
 
-public class OrderServiceceImpl implements OrderService {
+public class OrderServiceImpl implements OrderService {
 
     @Override
     public void create() {

@@ -1,6 +1,6 @@
 package com.itheima.lambda.test;
 
-public class LambdaTest4 {
+public class LambdaTest1 {
     public static void main(String[] args) {
 
         useShowHandler(new ShowHandler() {

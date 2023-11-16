@@ -1,4 +1,4 @@
-package com.domain;
+package com.itheima.domain;
 
 public class Student implements Comparable<Student> {
 

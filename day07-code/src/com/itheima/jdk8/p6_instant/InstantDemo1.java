@@ -4,7 +4,7 @@ import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 
-public class InstantDemo {
+public class InstantDemo1 {
     /*
     Instant类 :用于表示时间的对象,类似之前所学习的Date
      */

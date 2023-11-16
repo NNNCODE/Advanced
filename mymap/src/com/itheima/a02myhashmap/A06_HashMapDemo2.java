@@ -1,4 +1,4 @@
-package com.itheima.a01mymap;
+package com.itheima.a02myhashmap;
 
 import java.util.*;
 
